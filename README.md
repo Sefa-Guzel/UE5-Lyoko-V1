@@ -10,4 +10,11 @@
 
 [MaınCharacter][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/-votbwv_/)
 
+[Melee_AICharacter][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/1mnw8urv/)
+
+[Ranged_AICharacter][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/r4_r97xa/)
+
+[Melee_AICharacter][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/1mnw8urv/)
+
+[Melee_AICharacter][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/1mnw8urv/)
 
