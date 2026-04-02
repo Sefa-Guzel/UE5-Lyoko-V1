@@ -14,5 +14,9 @@
 
 [Ranged_AICharacter][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/l5kj-_po/)
 
+[MiniMap][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/tgav3zqx/)
 
+[PauseUI][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/zwy92i0d/)
+
+[MainManuUI][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/2vygxawx/)
 
