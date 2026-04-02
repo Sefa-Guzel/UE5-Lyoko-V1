@@ -8,13 +8,11 @@
 
 *Projeyi ve mekanikleri detaylı görmek için yukarıdaki görsele tıklayarak videoyu izleyebilirsiniz.*
 
-[MaınCharacter][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/-votbwv_/)
+[MaınCharacter][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/c8hicnj7/)
 
-[Melee_AICharacter][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/1mnw8urv/)
+[Melee_AICharacter][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/9tdndgh7/)
 
-[Ranged_AICharacter][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/r4_r97xa/)
+[Ranged_AICharacter][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/l5kj-_po/)
 
-[Melee_AICharacter][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/1mnw8urv/)
 
-[Melee_AICharacter][![BlueprintUE](https://img.shields.io/badge/BlueprintUE-View_Logic-blue?style=for-the-badge&logo=unrealengine)](https://blueprintue.com/render/1mnw8urv/)
 
